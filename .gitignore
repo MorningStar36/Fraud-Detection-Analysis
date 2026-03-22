@@ -4,6 +4,7 @@ venv/
 data/fifa.csv
 data/insurance.csv
 data/iris.csv
+data/fifa.csv
 # Ignore Python compiled files
 __pycache__/
 *.pyc
